@@ -1,0 +1,8 @@
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\bin\Debug\Cumhurbaşkanlığı Portal.exe
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\bin\Debug\Cumhurbaşkanlığı Portal.pdb
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\obj\Debug\Cumhurbaşkanlığı_Portal.Form1.resources
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\obj\Debug\Cumhurbaşkanlığı_Portal.Properties.Resources.resources
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\obj\Debug\Cumhurbaşkanlığı Portal.csproj.GenerateResource.Cache
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\obj\Debug\Cumhurbaşkanlığı Portal.exe
+c:\users\xx\documents\visual studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\obj\Debug\Cumhurbaşkanlığı Portal.pdb
+C:\Users\xx\Documents\Visual Studio 2015\Projects\Cumhurbaşkanlığı Portal\Cumhurbaşkanlığı Portal\obj\Debug\Cumhurbaşkanlığı Portal.csprojResolveAssemblyReference.cache
